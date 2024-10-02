@@ -1,6 +1,6 @@
 print("lofer")
 print("hii prends How are you")
-a=int(input("enter the number\n"))
+a=50
 b=int(5)
 for i in range(b):
     print(i,0)
